@@ -1,6 +1,6 @@
 # Bad STL Viewer
 
-A really simple STL viewer written in Rust. I wrote this because Clement Hathaway told me it would impress his boss. Please do not confuse it with a good STL viewer
+A really simple STL viewer written in Rust. I wrote this because Clement Hathaway told me it would impress his boss. Please do not confuse it with a good STL viewer.
 
 ![](screenshots/fighter.png)
 
