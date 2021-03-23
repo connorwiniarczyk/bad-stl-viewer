@@ -2,6 +2,7 @@
 
 A really simple STL viewer written in Rust. I wrote this because Clement Hathaway told me it would impress his boss.
 
+![](screenshots/fighter.png)
 
 ## Installing
 
