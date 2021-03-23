@@ -1,0 +1,17 @@
+[package]
+name = "bad-stl-viewer"
+version = "0.1.0"
+authors = ["Connor Winiarczyk <connorwiniarczyk@gmail.com>"]
+edition = "2018"
+
+[[bin]]
+name = "bad-stl"
+test = false
+bench = false
+path =  "src/main.rs"
+
+
+[dependencies]
+kiss3d = "0.29"
+nalgebra = "^0"
+stl_io = "0.6.0"
