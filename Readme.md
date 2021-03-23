@@ -9,7 +9,7 @@ A really simple STL viewer written in Rust. I wrote this because Clement Hathawa
 ```bash
 git clone https://github.com/connorwiniarczyk/bad-stl-viewer.git
 cd bad-stl-viewer
-cargo install .
+cargo install --path .
 ```
 
 ## Running
